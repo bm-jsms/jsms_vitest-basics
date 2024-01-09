@@ -1,4 +1,3 @@
-import { it } from 'vitest';
 import Math from '../src/02_math';
 
 describe('Math test', () => {
